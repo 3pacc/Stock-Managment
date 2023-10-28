@@ -11,7 +11,7 @@ Ce projet est un gestionnaire de stock développé en Python, conçu pour aider 
 - Rapports : Génération de rapports sur les produits en stock, les ventes, etc.
 - Interface conviviale : Une interface utilisateur intuitive pour faciliter la gestion des stocks.
 
-## Configuration
+### Configuration
 
 Pour exécuter ce projet, assurez-vous d'avoir Python installé sur votre système. Vous devrez également installer les bibliothèques Python requises, que vous pouvez généralement faire en utilisant `pip`. Créez également une base de données pour stocker les informations sur les produits. Vous pouvez utiliser un système de gestion de base de données relationnelle (SGBDR) tel que SQLite, MySQL ou PostgreSQL.
 
